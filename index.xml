@@ -28,5 +28,14 @@ Then form crab pâté steaks and brown them in a pan with a drizzle of frying oi
       <description>I&amp;rsquo;ve been doing photography since high school when it was introduced to me through a club. I had owned a camera before, but that was when I really picked it up as an active hobby. I&amp;rsquo;m a very casual photographer, occasionally going out and especially when I travel. I&amp;rsquo;m not a very well practicing one though, with little patience for setup or waiting for lighting. Instead I just take opportunistically rather than planning shoots.</description>
     </item>
     
+    <item>
+      <title>Personal stuff</title>
+      <link>/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personal/</guid>
+      <description>I build things sometimes. Rarely original, but its stuff made all the same. I enjoy 3D printing as a hobby. Most of it is part replacement for something broken like a wedge in my clothes horse or mounting cases for microelectronics, but sometimes its mechanical toys. Big props to CarnyRex, a creator on Etsy whose designs I have made several of for myself and others.</description>
+    </item>
+    
   </channel>
 </rss>

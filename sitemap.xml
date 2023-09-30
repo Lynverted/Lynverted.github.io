@@ -20,5 +20,7 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/gallery/</loc>
+  </url><url>
+    <loc>/personal/</loc>
   </url>
 </urlset>
